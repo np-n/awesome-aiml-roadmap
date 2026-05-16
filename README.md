@@ -10,7 +10,7 @@
 
 ## The Roadmap
 
-![AI/ML Roadmap for Beginners 2026](assets/roadmap.png)
+![AI/ML Roadmap for Beginners 2026](awesome_aiml_roadmap_banner.svg)
 
 *Source: [AI/ML Roadmap for Beginners 2026 — Netra Neupane on Medium](https://netraneupane.medium.com/ai-ml-roadmap-for-beginners-2026-4e359a94e494)*
 
