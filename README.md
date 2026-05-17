@@ -10,7 +10,6 @@
 
 ## The Roadmap
 
----
 
 ![AI/ML Roadmap for Beginners 2026](./assets/awesome_aiml_roadmap_banner.svg)
 
