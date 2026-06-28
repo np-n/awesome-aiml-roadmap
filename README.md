@@ -1,4 +1,4 @@
-# Awesome AI/ML Roadmap
+# AI/ML Roadmap
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
