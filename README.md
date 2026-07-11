@@ -155,6 +155,8 @@ Resources within each topic are sorted **Beginner → Intermediate → Advanced*
 - 📘 [Group By — Pandas Docs](https://pandas.pydata.org/docs/user_guide/groupby.html) `Intermediate`
 - 📘 [Pandas Visualization Guide](https://pandas.pydata.org/docs/user_guide/visualization.html) `Intermediate`
 
+- 📄 [EDA PDF — Dipendra](https://github.com/DipendraBhatta/ai-ml_internship/blob/main/datascience/eda.pdf) `Intermediate` *(Free)*
+
 ### Matplotlib & Seaborn
 
 - 📘 [Matplotlib Tutorials Index](https://matplotlib.org/stable/tutorials/index.html) `Beginner`
@@ -237,6 +239,10 @@ Resources within each topic are sorted **Beginner → Intermediate → Advanced*
 - 🎓 [Probability — Khan Academy](https://www.khanacademy.org/math/statistics-probability/probability-library) `Beginner` *(Free)*
 - 📺 [Bayes&#39; Theorem — 3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM) `Intermediate`
 - 📺 [Probability for Machine Learning — StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUiD3Q) `Intermediate`
+
+
+- 📄 [Math Foundations PDF — Dipendra](https://github.com/DipendraBhatta/ai-ml_internship/blob/main/datascience/math.pdf) `Intermediate` *(Free)*
+
 
 ---
 
@@ -497,6 +503,11 @@ Resources within each topic are sorted **Beginner → Intermediate → Advanced*
 
 - 📄 [Prompt Engineering Guide — DAIR.AI](https://www.promptingguide.ai/) `Beginner`
 - 🎓 [Learn Prompting](https://learnprompting.org/) `Beginner` *(Free)*
+
+- 📄 [Prompt Engineering PDF — Dipendra](https://github.com/DipendraBhatta/ai-ml_internship/blob/main/llms/prompt_engineering.pdf) `Intermediate` *(Free)*
+
+- 📄 [Prompt Engineering & RAG Slides — Dipendra](https://github.com/DipendraBhatta/ai-ml_internship/blob/main/llms/prompt_engineeiring%26rag_slides.pdf) `Intermediate` *(Free)*
+
 - 🎓 [ChatGPT Prompt Engineering for Developers — DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) `Intermediate` *(Free)*
 - 📘 [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) `Intermediate`
 
